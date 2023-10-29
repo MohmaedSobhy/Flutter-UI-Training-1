@@ -2,8 +2,6 @@
 
 This project is a Flutter application developed to practice building a single UI screen. It serves as a personal project where I explore various Flutter widgets, layouts, and design principles.
 
-## Features
-
 ## Single UI Screen
 
 The project focuses on developing a single screen with a responsive layout that adapts to different screen sizes and orientations.
