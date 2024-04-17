@@ -18,8 +18,8 @@ The UI screen is designed to be responsive, ensuring elements adjust their posit
 
 I utilized Flutter's media query capabilities to make UI adjustments based on the current device's screen size and orientation.
 
+<img src = "https://github.com/MohmaedSobhy/Flutter-UI-Training-1/assets/70748430/4cf46251-6188-4707-a112-2b8e4d7283d3" width="320" height="500"> 
 
-![one](https://github.com/MohmaedSobhy/Flutter-UI-Training-1/assets/70748430/4cf46251-6188-4707-a112-2b8e4d7283d3)
 
 
 
